@@ -1,4 +1,104 @@
-.navbar{
+.navbar {
     background-color: #34495e !important;
+    color: #f5f6fa !important;
+    height: 10vh;
 }
-.navbar .navlink
+
+.navbar-brand {
+    color: #ffffff;
+}
+
+.nav-item {
+    color: #ffffff !important;
+}
+
+.design img {
+    height: 30vh;
+}
+
+.design {
+    background-color: rgba(16, 172, 132, 1.0);
+
+    height: 80vh;
+    font-size: 1.5rem;
+}
+
+.caption h1 {
+    font-size: 5rem;
+}
+
+.divider-custom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1.5rem 0;
+}
+
+.divider-custom-line {
+    width: 100px;
+    height: 4px;
+    background-color: #ffffff;
+    border-radius: 1rem;
+}
+
+.divider-custom-line-dark {
+    width: 100px;
+    height: 4px;
+    background-color: rgba(34, 47, 62, 1.0);
+    border-radius: 1rem;
+}
+
+.caption {
+    color: #ffffff;
+}
+
+.portfolio {
+    background-color: rgba(16, 172, 132, 1.0);
+    color: #ffffff;
+    font-size: 1.5rem;
+    /* height: 60vh; */
+}
+
+.portfolio h1 {
+    font-size: 4rem;
+}
+
+.portfolio .btn {
+    color: #ffffff;
+    background-color: rgba(16, 172, 132, 1.0);
+    border-color: #ffffff;
+font-size: 1.5rem;
+}
+
+.portfolio .btn:hover {
+    color: black;
+    background-color: #ffffff;
+}
+
+.port {
+    height: 90vh;
+}
+
+.portimg img.img-thumbnail {
+    border: none;
+}
+
+.website {
+    background-color: #34495e;
+    color: #ffffff;
+
+}
+
+.website a {
+    color: rgba(29, 209, 161, 1.0);
+}
+
+.website .icon {
+    background-color: #34495e;
+}
+
+.copyright {
+    background-color: rgba(34, 47, 62, 1.0);
+    color: rgba(245, 246, 250, 1.0);
+
+}
